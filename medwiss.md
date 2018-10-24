@@ -27,7 +27,7 @@ _Auswertung der Top 250 Filme aus der IMDb_ ([Liste](https://www.imdb.com/chart/
 1. Aufräumen mit RegEx
 
 ### RegEx-Intro
-__1. tbd__
+1. __tbd__
 
 ### LibreOffice 2
 Suchen/Ersetzen-Fenster: Erweiterte Optionen: Reguläre Ausdrücke
