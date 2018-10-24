@@ -24,12 +24,13 @@ _Auswertung der Top 250 Filme aus der IMDb_ ([Liste](https://www.imdb.com/chart/
 
 ### LibreOffice 1
 1. Inhalt aus Zwischenablage einfügen
-1. Zum Aufräumen helfen RegEx
+1. Aufräumen mit RegEx
 
 ### RegEx-Intro
 __1. tbd__
 
 ### LibreOffice 2
+Suchen/Ersetzen-Fenster: Erweiterte Optionen: Reguläre Ausdrücke
 
 |Aufgabe|RegEx suchen| ersetzen|
 |----|----|----|
