@@ -20,7 +20,7 @@ Bitte bringen Sie einen eigenen Laptop mit, installieren Sie vor Veranstaltungsb
 und stellen Sie sicher, dass Sie sich ins WLAN (über stud/staff-Account bzw. eduroam) einloggen können.
 
 * [ ] eigener Laptop (Windows, Mac, Linux)
-* [ ] Webbrowser Chrome
-* [ ] Scraper Chrome Extension [Chrome Web Store](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-* [ ] LibreOffice [download](https://de.libreoffice.org/)
-* [ ] WLAN-Zugang
+* [ ] Webbrowser Chrome ([download](https://www.google.com/intl/de_ALL/chrome/))
+* [ ] Scraper Chrome Extension ([Chrome Web Store](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd))
+* [ ] LibreOffice ([download](https://de.libreoffice.org/))
+* [ ] WLAN-Zugang ([Hinweise des HRZ](https://www.uni-marburg.de/hrz/internet/wlan))
