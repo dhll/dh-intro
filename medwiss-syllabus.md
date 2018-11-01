@@ -24,3 +24,7 @@ und stellen Sie sicher, dass Sie sich ins WLAN (über stud/staff-Account bzw. ed
 * [ ] Scraper Chrome Extension ([Chrome Web Store](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd))
 * [ ] LibreOffice ([download](https://de.libreoffice.org/))
 * [ ] WLAN-Zugang ([Hinweise des HRZ](https://www.uni-marburg.de/hrz/internet/wlan))
+
+## Hilfsmittel
+* Ein Einstieg in HTML: https://www.w3schools.com/html/default.asp
+* Zum Ausprobieren von RegEx/Regulären Ausdrücken: https://regex101.com
