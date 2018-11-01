@@ -26,5 +26,6 @@ und stellen Sie sicher, dass Sie sich ins WLAN (über stud/staff-Account bzw. ed
 * [ ] WLAN-Zugang ([Hinweise des HRZ](https://www.uni-marburg.de/hrz/internet/wlan))
 
 ## Hilfsmittel
+* Liste der 250 beliebtesten Filme aus der IMDb: https://www.imdb.com/chart/top?ref_=nv_mv_250
 * Ein Einstieg in HTML: https://www.w3schools.com/html/default.asp
 * Zum Ausprobieren von RegEx/Regulären Ausdrücken: https://regex101.com
