@@ -149,7 +149,6 @@ Zur weiteren Analyse verwenden wir deshalb ein anderes Programm, genauer: eine P
 Speichern als txt-Datei: `top250.txt` (ist jetzt im tsv-Format; alternative wäre csv, kann aber mit Textdateien mitunter problematisch sein!)
 
 ### R - Einführung
-(Kursvorlage: https://rnotebook.io/anon/3d009cdef3980755/tree)
 
 1. Ein R-Jupyter-Notebook öffnen: https://rnotebook.io
 
