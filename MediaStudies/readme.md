@@ -37,5 +37,5 @@ und stellen Sie sicher, dass Sie sich ins WLAN (über stud/staff-Account bzw. ed
 1. **R-Intro.ipynb**: Das R-Notebook mit einer kurzen Einführung in R (zum Import in https://rnotebook.io)
 1. **Top250Movies.ipynb**: Das R-Notebook mit der Auswertung der Filmliste R (zum Import in https://rnotebook.io)
 1. **250Movies.txt**: Die bereinigte Film-Liste (zum Import in https://rnotebook.io)
-1. **Auswertung Top250IMDb.nb.html**: Das R-Notebook als HTML-Datei mit ausgeführtem R-Code.
+1. **Auswertung Top250IMDb.nb.html**: Das R-Notebook als HTML-Datei mit ausgeführtem R-Code: http://htmlpreview.github.com/?https://github.com/dhll/dh-intro/blob/master/MediaStudies/AuswertungTop250IMDb.nb.html
 
