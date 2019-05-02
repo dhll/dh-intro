@@ -5,7 +5,7 @@ Zeitumfang: ca. 90 Min.
 In der Kurz-Einführung in Methoden und Tools der DH werden die Grundlagen der Arbeit mit Daten vermittelt: 
 von der Datensammlung/Data Harvesting über Datenbereinigung, Datenanalyse bis hin zur Datenvisualisierung.
 
-![workflow.jpg](DH-Workflow])
+![DH-Workflow](workflow.jpg)
 
 In einem kleinen Analyse-Projekt soll die _Liste der beliebtesten 250 Filme aus der IMDb_ ausgewertet werden 
 ([Liste](https://www.imdb.com/chart/top?ref_=nv_mv_250)).
